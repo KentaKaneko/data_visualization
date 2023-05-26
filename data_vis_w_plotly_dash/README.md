@@ -1,0 +1,2 @@
+# 参考図書
+- [Pythonインタラクティブ・データビジュアライゼーション入門 PPlotly/Dashによるデータ可視化とWebアプリ構築](https://www.amazon.co.jp/Python-インタラクティブ・データビジュアライゼーション入門-―Plotly-Dashによるデータ可視化とWebアプリ構築―-driller/dp/4254122586/ref=asc_df_4254122586/?tag=jpgo-22&linkCode=df0&hvadid=450796136531&hvpos=&hvnetw=g&hvrand=16029728784706340763&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1009224&hvtargid=pla-960005008019&psc=1&th=1&psc=1)
